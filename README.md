@@ -1,1 +1,1 @@
-portfolio only in HTML, CSS, JS. plans for a webframe work next
+portfolio only in HTML and CSS. plans for a webframe work next

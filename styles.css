@@ -1,0 +1,25 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Unbounded, sans-serif;
+  color: #333333;
+}
+
+.navbar-brand {
+  color: #333333;
+}
+
+.id home {
+  max-width: 100%;
+}
+
+.name {
+  display: inline;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+#fa-brands {
+  color: #333333;
+}
